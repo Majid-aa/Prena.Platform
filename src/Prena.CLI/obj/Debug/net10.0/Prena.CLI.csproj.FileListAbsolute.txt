@@ -22,3 +22,10 @@ D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\refint\Prena.CLI.dll
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.pdb
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.genruntimeconfig.cache
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\ref\Prena.CLI.dll
+D:\Projects\Prena Platform\src\Prena.CLI\bin\Debug\net10.0\Prena.CLI.xml
+D:\Projects\Prena Platform\src\Prena.CLI\bin\Debug\net10.0\Prena.BuildingBlocks.Application.xml
+D:\Projects\Prena Platform\src\Prena.CLI\bin\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.xml
+D:\Projects\Prena Platform\src\Prena.CLI\bin\Debug\net10.0\Prena.BuildingBlocks.Core.xml
+D:\Projects\Prena Platform\src\Prena.CLI\bin\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.xml
+D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.sourcelink.json
+D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.xml

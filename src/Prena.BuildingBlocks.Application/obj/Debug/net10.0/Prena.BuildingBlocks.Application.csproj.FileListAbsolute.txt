@@ -15,3 +15,8 @@ D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\refint\Prena.BuildingBlocks.Application.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.pdb
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\ref\Prena.BuildingBlocks.Application.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\bin\Debug\net10.0\Prena.BuildingBlocks.Application.xml
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\bin\Debug\net10.0\Prena.BuildingBlocks.Core.xml
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\bin\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.xml
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.sourcelink.json
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.xml
