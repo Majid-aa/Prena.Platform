@@ -1,0 +1,17 @@
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\bin\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.deps.json
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\bin\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\bin\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.pdb
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\bin\Debug\net10.0\Prena.BuildingBlocks.Core.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\bin\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\bin\Debug\net10.0\Prena.BuildingBlocks.Core.pdb
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\bin\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.pdb
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.AssemblyInfo.cs
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\Prena.Bu.B0693EF2.Up2Date
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\refint\Prena.BuildingBlocks.Infrastructure.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\Prena.BuildingBlocks.Infrastructure.pdb
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Infrastructure\obj\Debug\net10.0\ref\Prena.BuildingBlocks.Infrastructure.dll

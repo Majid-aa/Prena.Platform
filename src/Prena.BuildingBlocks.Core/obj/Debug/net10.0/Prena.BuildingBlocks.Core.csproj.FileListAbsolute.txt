@@ -1,0 +1,11 @@
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\bin\Debug\net10.0\Prena.BuildingBlocks.Core.deps.json
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\bin\Debug\net10.0\Prena.BuildingBlocks.Core.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\bin\Debug\net10.0\Prena.BuildingBlocks.Core.pdb
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\obj\Debug\net10.0\Prena.BuildingBlocks.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\obj\Debug\net10.0\Prena.BuildingBlocks.Core.AssemblyInfoInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\obj\Debug\net10.0\Prena.BuildingBlocks.Core.AssemblyInfo.cs
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\obj\Debug\net10.0\Prena.BuildingBlocks.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\obj\Debug\net10.0\Prena.BuildingBlocks.Core.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\obj\Debug\net10.0\refint\Prena.BuildingBlocks.Core.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\obj\Debug\net10.0\Prena.BuildingBlocks.Core.pdb
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Core\obj\Debug\net10.0\ref\Prena.BuildingBlocks.Core.dll

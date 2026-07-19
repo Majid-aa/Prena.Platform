@@ -1,0 +1,11 @@
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\bin\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.deps.json
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\bin\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\bin\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.pdb
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.AssemblyInfoInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.AssemblyInfo.cs
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\refint\Prena.BuildingBlocks.SharedKernel.dll
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.pdb
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\ref\Prena.BuildingBlocks.SharedKernel.dll

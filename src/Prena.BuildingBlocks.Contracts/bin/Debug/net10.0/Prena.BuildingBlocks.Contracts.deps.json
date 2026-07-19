@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Prena.BuildingBlocks.Contracts/1.0.0": {
+        "runtime": {
+          "Prena.BuildingBlocks.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prena.BuildingBlocks.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

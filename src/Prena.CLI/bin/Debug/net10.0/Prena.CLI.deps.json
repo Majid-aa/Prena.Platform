@@ -1,0 +1,87 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Prena.CLI/1.0.0": {
+        "dependencies": {
+          "Prena.BuildingBlocks.Application": "1.0.0",
+          "Prena.BuildingBlocks.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "Prena.CLI.dll": {}
+        }
+      },
+      "Prena.BuildingBlocks.Application/1.0.0": {
+        "dependencies": {
+          "Prena.BuildingBlocks.Core": "1.0.0",
+          "Prena.BuildingBlocks.SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "Prena.BuildingBlocks.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Prena.BuildingBlocks.Core/1.0.0": {
+        "runtime": {
+          "Prena.BuildingBlocks.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Prena.BuildingBlocks.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Prena.BuildingBlocks.Core": "1.0.0",
+          "Prena.BuildingBlocks.SharedKernel": "1.0.0"
+        },
+        "runtime": {
+          "Prena.BuildingBlocks.Infrastructure.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Prena.BuildingBlocks.SharedKernel/1.0.0": {
+        "runtime": {
+          "Prena.BuildingBlocks.SharedKernel.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prena.CLI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prena.BuildingBlocks.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prena.BuildingBlocks.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prena.BuildingBlocks.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Prena.BuildingBlocks.SharedKernel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
