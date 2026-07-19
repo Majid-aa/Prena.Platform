@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prena")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d976246d9771c81bc17f37ca74855645a60af870")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27663ade0fba11c4e8e88657b375a260a706e3b1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prena Platform")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prena.BuildingBlocks.Contracts")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
