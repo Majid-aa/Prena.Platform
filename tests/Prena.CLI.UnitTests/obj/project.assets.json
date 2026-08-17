@@ -25,6 +25,7 @@
       "outputPath": "D:\\Projects\\Prena Platform\\tests\\Prena.CLI.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "centralPackageVersionsManagementEnabled": true,
+      "CentralPackageTransitivePinningEnabled": true,
       "configFilePaths": [
         "C:\\Users\\majid\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],

@@ -14,18 +14,25 @@
 
     <AnalysisLevel>latest</AnalysisLevel>
 
+
     <Company>Prena</Company>
 
     <Product>Prena Platform</Product>
 
     <Authors>Prena Team</Authors>
 
+
     <RepositoryUrl>https://github.com/Majid-aa/Prena.Platform</RepositoryUrl>
 
     <RepositoryType>git</RepositoryType>
 
+
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
 
+    <Deterministic>true</Deterministic>
+
+
   </PropertyGroup>
+
 
 </Project>
