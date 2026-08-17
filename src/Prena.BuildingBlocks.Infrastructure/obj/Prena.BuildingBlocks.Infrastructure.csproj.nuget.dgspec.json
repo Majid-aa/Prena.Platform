@@ -13,6 +13,7 @@
         "packagesPath": "C:\\Users\\majid\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Prena Platform\\src\\Prena.BuildingBlocks.Core\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
           "C:\\Users\\majid\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -349,6 +350,7 @@
         "packagesPath": "C:\\Users\\majid\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Prena Platform\\src\\Prena.BuildingBlocks.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
           "C:\\Users\\majid\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
@@ -692,6 +694,7 @@
         "packagesPath": "C:\\Users\\majid\\.nuget\\packages\\",
         "outputPath": "D:\\Projects\\Prena Platform\\src\\Prena.BuildingBlocks.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
         "configFilePaths": [
           "C:\\Users\\majid\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
