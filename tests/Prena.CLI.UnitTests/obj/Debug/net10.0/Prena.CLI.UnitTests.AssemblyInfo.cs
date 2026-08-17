@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prena.CLI.UnitTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80ab3b90e35180c26a615930713cd92c5da5512c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f855c1b4124157dbdc55dd2d1adaffc5a515d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prena.CLI.UnitTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prena.CLI.UnitTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Prena.BuildingBlocks.Application/Prena.BuildingBlocks.Application.csproj" />
+    <Project Path="src/Prena.BuildingBlocks.Contracts/Prena.BuildingBlocks.Contracts.csproj" />
+    <Project Path="src/Prena.BuildingBlocks.Core/Prena.BuildingBlocks.Core.csproj" />
+    <Project Path="src/Prena.BuildingBlocks.Infrastructure/Prena.BuildingBlocks.Infrastructure.csproj" />
+    <Project Path="src/Prena.BuildingBlocks.SharedKernel/Prena.BuildingBlocks.SharedKernel.csproj" />
+    <Project Path="src/Prena.BuildingBlocks.Testing/Prena.BuildingBlocks.Testing.csproj" />
+    <Project Path="src/Prena.CLI/Prena.CLI.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Prena.CLI.IntegrationTests/Prena.CLI.IntegrationTests.csproj" />
+    <Project Path="tests/Prena.CLI.UnitTests/Prena.CLI.UnitTests.csproj" />
+  </Folder>
+</Solution>
