@@ -92,8 +92,6 @@
       "packagesPath": "C:\\Users\\majid\\.nuget\\packages\\",
       "outputPath": "D:\\Projects\\Prena Platform\\src\\Prena.CLI\\obj\\",
       "projectStyle": "PackageReference",
-      "centralPackageVersionsManagementEnabled": true,
-      "CentralPackageTransitivePinningEnabled": true,
       "configFilePaths": [
         "C:\\Users\\majid\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
