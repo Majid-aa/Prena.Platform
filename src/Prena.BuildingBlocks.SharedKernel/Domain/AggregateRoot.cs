@@ -1,4 +1,5 @@
 using Prena.BuildingBlocks.SharedKernel.Abstractions;
+using Prena.BuildingBlocks.SharedKernel.Common;
 
 namespace Prena.BuildingBlocks.SharedKernel.Domain;
 

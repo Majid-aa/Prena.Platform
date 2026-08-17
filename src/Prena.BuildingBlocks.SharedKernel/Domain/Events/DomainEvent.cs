@@ -1,3 +1,5 @@
+using Prena.BuildingBlocks.SharedKernel.Abstractions;
+
 namespace Prena.BuildingBlocks.SharedKernel.Domain.Events;
 
 
