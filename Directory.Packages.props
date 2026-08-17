@@ -1,5 +1,4 @@
-<Project>
-
+﻿<Project>
 
   <PropertyGroup>
 
@@ -8,11 +7,5 @@
     <CentralPackageTransitivePinningEnabled>true</CentralPackageTransitivePinningEnabled>
 
   </PropertyGroup>
-
-
-  <ItemGroup>
-
-  </ItemGroup>
-
 
 </Project>

@@ -1,4 +1,4 @@
-root = true
+﻿root = true
 
 
 [*.cs]
@@ -9,19 +9,9 @@ indent_style = space
 
 indent_size = 4
 
+
 dotnet_sort_system_directives_first = true
 
-csharp_new_line_before_members_in_chained_query = true
-
-
-# Nullable
-
-dotnet_diagnostic.CS8600.severity = warning
-
-dotnet_diagnostic.CS8602.severity = warning
-
-
-# Naming
 
 dotnet_naming_rule.interface_should_be_begins_with_i.severity = suggestion
 
