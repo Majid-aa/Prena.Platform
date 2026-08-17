@@ -95,3 +95,5 @@ D:\Projects\Prena Platform\tests\Prena.CLI.UnitTests\obj\Debug\net10.0\refint\Pr
 D:\Projects\Prena Platform\tests\Prena.CLI.UnitTests\obj\Debug\net10.0\Prena.CLI.UnitTests.pdb
 D:\Projects\Prena Platform\tests\Prena.CLI.UnitTests\obj\Debug\net10.0\Prena.CLI.UnitTests.genruntimeconfig.cache
 D:\Projects\Prena Platform\tests\Prena.CLI.UnitTests\obj\Debug\net10.0\ref\Prena.CLI.UnitTests.dll
+D:\Projects\Prena Platform\tests\Prena.CLI.UnitTests\bin\Debug\net10.0\Prena.CLI.UnitTests.xml
+D:\Projects\Prena Platform\tests\Prena.CLI.UnitTests\obj\Debug\net10.0\Prena.CLI.UnitTests.xml
