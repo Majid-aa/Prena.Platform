@@ -16,6 +16,7 @@ D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.GeneratedMS
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.AssemblyInfoInputs.cache
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.AssemblyInfo.cs
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.sourcelink.json
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.csproj.Up2Date
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\Prena.CLI.dll
 D:\Projects\Prena Platform\src\Prena.CLI\obj\Debug\net10.0\refint\Prena.CLI.dll

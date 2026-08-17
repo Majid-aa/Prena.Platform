@@ -5,6 +5,7 @@ D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.AssemblyInfoInputs.cache
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.AssemblyInfo.cs
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.sourcelink.json
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\refint\Prena.BuildingBlocks.SharedKernel.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.SharedKernel\obj\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.pdb

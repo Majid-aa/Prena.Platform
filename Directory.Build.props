@@ -1,0 +1,38 @@
+<Project>
+
+  <PropertyGroup>
+
+    <TargetFramework>net10.0</TargetFramework>
+
+    <Nullable>enable</Nullable>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+
+    <LangVersion>preview</LangVersion>
+
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+
+    <AnalysisLevel>latest</AnalysisLevel>
+
+
+    <Company>Prena</Company>
+
+    <Product>Prena Platform</Product>
+
+    <Authors>Prena Team</Authors>
+
+
+    <RepositoryUrl>https://github.com/Majid-aa/Prena.Platform</RepositoryUrl>
+
+    <RepositoryType>git</RepositoryType>
+
+
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+    <Deterministic>true</Deterministic>
+
+
+  </PropertyGroup>
+
+
+</Project>
