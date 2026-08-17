@@ -5,10 +5,8 @@ D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Pr
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Prena.BuildingBlocks.Testing.AssemblyInfoInputs.cache
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Prena.BuildingBlocks.Testing.AssemblyInfo.cs
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Prena.BuildingBlocks.Testing.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Prena.BuildingBlocks.Testing.sourcelink.json
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Prena.BuildingBlocks.Testing.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\refint\Prena.BuildingBlocks.Testing.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Prena.BuildingBlocks.Testing.pdb
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\ref\Prena.BuildingBlocks.Testing.dll
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\bin\Debug\net10.0\Prena.BuildingBlocks.Testing.xml
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Prena.BuildingBlocks.Testing.sourcelink.json
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Testing\obj\Debug\net10.0\Prena.BuildingBlocks.Testing.xml

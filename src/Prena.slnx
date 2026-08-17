@@ -1,5 +1,4 @@
 <Solution>
-  <Project Path="../tests/Prena.BuildingBlocks.SharedKernel.Tests/Prena.BuildingBlocks.SharedKernel.Tests.csproj" />
   <Project Path="../tests/Prena.CLI.IntegrationTests/Prena.CLI.IntegrationTests.csproj" />
   <Project Path="../tests/Prena.CLI.UnitTests/Prena.CLI.UnitTests.csproj" />
   <Project Path="Prena.BuildingBlocks.Application/Prena.BuildingBlocks.Application.csproj" />

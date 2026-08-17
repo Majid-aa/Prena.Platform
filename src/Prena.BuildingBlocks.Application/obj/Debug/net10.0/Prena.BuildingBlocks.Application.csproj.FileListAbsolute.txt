@@ -10,13 +10,9 @@ D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.AssemblyInfoInputs.cache
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.AssemblyInfo.cs
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.sourcelink.json
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.Bu.570B4C6C.Up2Date
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\refint\Prena.BuildingBlocks.Application.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.pdb
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\ref\Prena.BuildingBlocks.Application.dll
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\bin\Debug\net10.0\Prena.BuildingBlocks.Application.xml
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\bin\Debug\net10.0\Prena.BuildingBlocks.Core.xml
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\bin\Debug\net10.0\Prena.BuildingBlocks.SharedKernel.xml
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.sourcelink.json
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Application\obj\Debug\net10.0\Prena.BuildingBlocks.Application.xml

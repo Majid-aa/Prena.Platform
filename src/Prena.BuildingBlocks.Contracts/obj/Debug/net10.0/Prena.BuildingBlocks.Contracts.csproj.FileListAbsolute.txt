@@ -5,10 +5,8 @@ D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\Prena.BuildingBlocks.Contracts.AssemblyInfoInputs.cache
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\Prena.BuildingBlocks.Contracts.AssemblyInfo.cs
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\Prena.BuildingBlocks.Contracts.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\Prena.BuildingBlocks.Contracts.sourcelink.json
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\Prena.BuildingBlocks.Contracts.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\refint\Prena.BuildingBlocks.Contracts.dll
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\Prena.BuildingBlocks.Contracts.pdb
 D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\ref\Prena.BuildingBlocks.Contracts.dll
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\bin\Debug\net10.0\Prena.BuildingBlocks.Contracts.xml
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\Prena.BuildingBlocks.Contracts.sourcelink.json
-D:\Projects\Prena Platform\src\Prena.BuildingBlocks.Contracts\obj\Debug\net10.0\Prena.BuildingBlocks.Contracts.xml

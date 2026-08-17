@@ -88,12 +88,10 @@ D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Pr
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.AssemblyInfoInputs.cache
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.AssemblyInfo.cs
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.csproj.CoreCompileInputs.cache
+D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.sourcelink.json
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CL.69D9E322.Up2Date
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.dll
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\refint\Prena.CLI.IntegrationTests.dll
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.pdb
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.genruntimeconfig.cache
 D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\ref\Prena.CLI.IntegrationTests.dll
-D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\bin\Debug\net10.0\Prena.CLI.IntegrationTests.xml
-D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.sourcelink.json
-D:\Projects\Prena Platform\tests\Prena.CLI.IntegrationTests\obj\Debug\net10.0\Prena.CLI.IntegrationTests.xml
