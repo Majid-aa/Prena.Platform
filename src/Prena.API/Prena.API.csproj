@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Prena.BuildingBlocks.Application\Prena.BuildingBlocks.Application.csproj" />
+    <ProjectReference Include="..\Prena.BuildingBlocks.Infrastructure\Prena.BuildingBlocks.Infrastructure.csproj" />
+
+    <ProjectReference Include="..\Modules\ERP\ERP-1001.Organization\Application\Prena.ERP1001.Organization.Application.csproj" />
+    <ProjectReference Include="..\Modules\ERP\ERP-1001.Organization\Infrastructure\Prena.ERP1001.Organization.Infrastructure.csproj" />
+    <ProjectReference Include="..\Modules\ERP\ERP-1001.Organization\Contracts\Prena.ERP1001.Organization.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,6 @@
+@Prena.API_HostAddress = http://localhost:5074
+
+GET {{Prena.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
