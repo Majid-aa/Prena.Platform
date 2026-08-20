@@ -4,16 +4,6 @@
         <name>Prena.API</name>
     </assembly>
     <members>
-        <member name="M:Prena.API.Controllers.TenantsController.Create(Prena.ERP1001.Organization.Application.Commands.CreateTenantCommand,System.Threading.CancellationToken)">
-            <summary>
-            Creates a new tenant.
-            </summary>
-        </member>
-        <member name="M:Prena.API.Controllers.TenantsController.GetById(System.Guid,System.Threading.CancellationToken)">
-            <summary>
-            Gets a tenant by identifier.
-            </summary>
-        </member>
         <member name="M:Microsoft.AspNetCore.OpenApi.Generated.DocumentationCommentIdHelper.CreateDocumentationId(System.Type)">
             <summary>
             Generates a documentation comment ID for a type.

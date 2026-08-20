@@ -1,4 +1,4 @@
-﻿using Prena.ERP1001.Organization.Application.DTOs;
+using Prena.ERP1001.Organization.Application.DTOs;
 using Prena.ERP1001.Organization.Application.Interfaces;
 
 namespace Prena.ERP1001.Organization.Application.Queries.GetTenantById;
@@ -26,10 +26,6 @@ public sealed class GetTenantByIdQueryHandler
             return null;
         }
 
-        return new TenantDto(
-            tenant.Id,
-            tenant.Code,
-            tenant.Name,
-            tenant.Status.ToString());
+        return new TenantDto(tenant.Id, tenant.Code, tenant.Name);
     }
 }

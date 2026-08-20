@@ -58,7 +58,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },
@@ -406,7 +406,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },
@@ -758,7 +758,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },
@@ -1127,7 +1127,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },
@@ -1500,7 +1500,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "[7.2.0, )",
+              "version": "[10.0.1, )",
               "versionCentrallyManaged": true
             }
           },
@@ -1510,7 +1510,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },
@@ -2008,7 +2008,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },
@@ -2356,7 +2356,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },
@@ -2711,7 +2711,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },
@@ -3059,7 +3059,7 @@
             "Microsoft.EntityFrameworkCore.Design": "10.0.11",
             "Microsoft.EntityFrameworkCore.SqlServer": "10.0.11",
             "Microsoft.NET.Test.Sdk": "17.12.0",
-            "Swashbuckle.AspNetCore": "7.2.0",
+            "Swashbuckle.AspNetCore": "10.0.1",
             "xunit": "2.9.2",
             "xunit.runner.visualstudio": "3.0.1"
           },

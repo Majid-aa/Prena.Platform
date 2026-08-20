@@ -4,5 +4,25 @@
         <name>Prena.ERP1001.Organization.Application</name>
     </assembly>
     <members>
+        <member name="T:Prena.ERP1001.Organization.Application.DocumentManagement.DTOs.DocumentResponse">
+            <summary>
+            Document registry response.
+            </summary>
+        </member>
+        <member name="M:Prena.ERP1001.Organization.Application.DocumentManagement.DTOs.DocumentResponse.#ctor(System.Guid,System.String,System.String,System.String,System.String,System.String,System.Boolean,System.DateTime)">
+            <summary>
+            Document registry response.
+            </summary>
+        </member>
+        <member name="T:Prena.ERP1001.Organization.Application.DocumentManagement.DTOs.RegisterDocumentRequest">
+            <summary>
+            Request for registering a document.
+            </summary>
+        </member>
+        <member name="M:Prena.ERP1001.Organization.Application.DocumentManagement.DTOs.RegisterDocumentRequest.#ctor(System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Request for registering a document.
+            </summary>
+        </member>
     </members>
 </doc>
